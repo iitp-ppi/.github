@@ -18,18 +18,18 @@
 ### Tolkit list
 #### List of modular toolkits
  - Toolkits for prediction of protein-protein interaction
-   - DeepFoldPublic: DeepFold protein structure prediction
-   - MiniWorld: Minimal architecture for protein structure prediction
-   - BIS-ProteinStructure_libraries: toolkits dealing with protein data
-   - AlphaSS: AlphaFold2 using SSbond embedding
-   - MSA_search_pipeline: MSA search pipelin
+   - [DeepFoldPublic](): DeepFold protein structure prediction
+   - [MiniWorld](): Minimal architecture for protein structure prediction
+   - [BIS-ProteinStructure_libraries](): toolkits dealing with protein data
+   - [AlphaSS](): AlphaFold2 using SSbond embedding
+   - [MSA_search_pipeline](): MSA search pipelin
  - Toolkits for prediction of protein-ligand interaction
-   - nurikit: toolkits for ligand and protein manipulation
-   - DiffAlign: diffusion model for ligand alignment
-   - BindingRMSD: evaluation model for protein-ligand model structure
-   - BAPred: evaluation model for protein-ligand binding affinity
-   - galaxydock_dl: protein-ligand docking model
-   - BsiteP: Protein-ligand binding site prediction
+   - [nurikit](): toolkits for ligand and protein manipulation
+   - [DiffAlign](): diffusion model for ligand alignment
+   - [BindingRMSD](): evaluation model for protein-ligand model structure
+   - [BAPred](): evaluation model for protein-ligand binding affinity
+   - [galaxydock_dl](): protein-ligand docking model
+   - [BsiteP](): Protein-ligand binding site prediction
  - PPI-Integration-Toolkit: integrated version of all toolkit
 #### Template colab notebooks for integrated usage
  - [Predicting protein-protein interactions]()
