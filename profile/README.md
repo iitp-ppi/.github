@@ -1,4 +1,6 @@
-# IITP Protein-Protein Interaction
+## AI toolkits for prediction of structure-based protein interaction(바이오 및 신약 개발 연구에 활용될 수 있는 여러 단백질 상호작용 예측 AI 툴킷)
+ - 오픈소스SW 및 DB는 전문 개발자의 연구 및 교육에 활용 가능함
+ - 특정 단백질에 대한 바이오 및 신약 연구에 활용 가능한 예시 제공
 ### Database
 
 [유기분자 결합구조 예측을 위한 DB](https://drive.google.com/file/d/1kQ_h9BSBs0pUX3soeVf-txPd5pWrz1wv/view?usp=sharing)
@@ -12,3 +14,24 @@
 [PPI Integration Toolkit 문서](https://iitp-ppi.github.io/PPI-Integration-Toolkit/)
 
 [Nurikit](https://nurikit.readthedocs.io/latest/)
+
+### Tolkit list
+#### List of modular toolkits
+ - Toolkits for prediction of protein-protein interaction
+   - DeepFoldPublic: DeepFold protein structure prediction
+   - MiniWorld: Minimal architecture for protein structure prediction
+   - BIS-ProteinStructure_libraries: toolkits dealing with protein data
+   - AlphaSS: AlphaFold2 using SSbond embedding
+   - MSA_search_pipeline: MSA search pipelin
+ - Toolkits for prediction of protein-ligand interaction
+   - nurikit: toolkits for ligand and protein manipulation
+   - DiffAlign: diffusion model for ligand alignment
+   - BindingRMSD: evaluation model for protein-ligand model structure
+   - BAPred: evaluation model for protein-ligand binding affinity
+   - galaxydock_dl: protein-ligand docking model
+   - BsiteP: Protein-ligand binding site prediction
+ - PPI-Integration-Toolkit: integrated version of all toolkit
+#### Template colab notebooks for integrated usage
+ - [Predicting protein-protein interactions]()
+ - [Predicting potein-ligand interactions]()
+ - [Predicting the effect of protein mutations]()
