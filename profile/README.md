@@ -10,3 +10,5 @@
 ### Documentation
 
 [PPI Integration Toolkit 문서](https://iitp-ppi.github.io/PPI-Integration-Toolkit/)
+
+[Nurikit](https://nurikit.readthedocs.io/latest/)
