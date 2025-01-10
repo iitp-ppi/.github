@@ -1,4 +1,5 @@
 ## AI toolkits for prediction of structure-based protein interaction(바이오 및 신약 개발 연구에 활용될 수 있는 여러 단백질 상호작용 예측 AI 툴킷)
+과학기술정보통신부 정보통신기획평가원 지원 사업
  - 오픈소스SW 및 DB는 전문 개발자의 연구 및 교육에 활용 가능함
  - 특정 단백질에 대한 바이오 및 신약 연구에 활용 가능한 예시 제공
 ### Database
@@ -18,19 +19,19 @@
 ### Tolkit list
 #### List of modular toolkits
  - Toolkits for prediction of protein-protein interaction
-   - [DeepFoldPublic](): DeepFold protein structure prediction
-   - [MiniWorld](): Minimal architecture for protein structure prediction
-   - [BIS-ProteinStructure_libraries](): toolkits dealing with protein data
-   - [AlphaSS](): AlphaFold2 using SSbond embedding
-   - [MSA_search_pipeline](): MSA search pipelin
+   - [DeepFoldPublic](https://github.com/iitp-ppi/DeepFoldPublic): DeepFold protein structure prediction
+   - [MiniWorld](https://github.com/iitp-ppi/MiniWorld): Minimal architecture for protein structure prediction
+   - [BIS-ProteinStructure_libraries](https://github.com/iitp-ppi/ProteinStructure_libraries): toolkits dealing with protein data
+   - [AlphaSS](https://github.com/iitp-ppi/AlphaSS): AlphaFold2 using SSbond embedding
+   - [MSA_search_pipeline](https://github.com/iitp-ppi/MSA_search_pipeline): MSA search pipelin
  - Toolkits for prediction of protein-ligand interaction
-   - [nurikit](): toolkits for ligand and protein manipulation
-   - [DiffAlign](): diffusion model for ligand alignment
-   - [BindingRMSD](): evaluation model for protein-ligand model structure
-   - [BAPred](): evaluation model for protein-ligand binding affinity
-   - [galaxydock_dl](): protein-ligand docking model
-   - [BsiteP](): Protein-ligand binding site prediction
- - PPI-Integration-Toolkit: integrated version of all toolkit
+   - [nurikit](https://github.com/iitp-ppi/nurikit): toolkits for ligand and protein manipulation
+   - [DiffAlign](https://github.com/iitp-ppi/DiffAlign): diffusion model for ligand alignment
+   - [BindingRMSD](https://github.com/iitp-ppi/BindingRMSD): evaluation model for protein-ligand model structure
+   - [BAPred](https://github.com/iitp-ppi/BAPred): evaluation model for protein-ligand binding affinity
+   - [galaxydock_dl](https://github.com/iitp-ppi/galaxydock_dl): protein-ligand docking model
+   - [BsiteP](https://github.com/iitp-ppi/BsiteP): Protein-ligand binding site prediction
+ - [PPI-Integration-Toolkit](https://github.com/PPI-Integration-Toolkit): integrated version of all toolkit
 #### Template colab notebooks for integrated usage
  - [Predicting protein-protein interactions]()
  - [Predicting potein-ligand interactions]()
