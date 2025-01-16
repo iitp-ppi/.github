@@ -33,6 +33,6 @@
    - [BsiteP](https://github.com/iitp-ppi/BsiteP): Protein-ligand binding site prediction
  - [PPI-Integration-Toolkit](https://github.com/PPI-Integration-Toolkit): integrated version of all toolkits
 #### Template colab notebooks for integrated usage
- - [Predicting protein-protein interactions]()
+ - [Predicting protein-protein interactions](https://drive.google.com/file/d/1G4RRI4ljbqXnnEYQF0sLtWCScx-MXGM0/view?usp=sharing)
  - [Predicting protein-ligand interactions](https://drive.google.com/file/d/1Ws7ZLjkuJcz2cRMS83kwAT104ebYSl1H/view?usp=drive_link)
  - [Predicting the effect of protein mutations](https://drive.google.com/file/d/1VmKygyn7JYp09ypj-2UqzyKy9_QESU77/view?usp=drive_link)
