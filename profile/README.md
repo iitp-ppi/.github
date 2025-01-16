@@ -16,14 +16,14 @@
 
 [Nurikit](https://nurikit.readthedocs.io/latest/)
 
-### Tolkit list
+### Toolkit list
 #### List of modular toolkits
  - Toolkits for prediction of protein-protein interaction
    - [DeepFoldPublic](https://github.com/iitp-ppi/DeepFoldPublic): DeepFold protein structure prediction
    - [MiniWorld](https://github.com/iitp-ppi/MiniWorld): Minimal architecture for protein structure prediction
    - [BIS-ProteinStructure_libraries](https://github.com/iitp-ppi/ProteinStructure_libraries): toolkits dealing with protein data
    - [AlphaSS](https://github.com/iitp-ppi/AlphaSS): AlphaFold2 using SSbond embedding
-   - [MSA_search_pipeline](https://github.com/iitp-ppi/MSA_search_pipeline): MSA search pipelin
+   - [MSA_search_pipeline](https://github.com/iitp-ppi/MSA_search_pipeline): MSA search pipeline
  - Toolkits for prediction of protein-ligand interaction
    - [nurikit](https://github.com/iitp-ppi/nurikit): toolkits for ligand and protein manipulation
    - [DiffAlign](https://github.com/iitp-ppi/DiffAlign): diffusion model for ligand alignment
@@ -31,8 +31,8 @@
    - [BAPred](https://github.com/iitp-ppi/BAPred): evaluation model for protein-ligand binding affinity
    - [galaxydock_dl](https://github.com/iitp-ppi/galaxydock_dl): protein-ligand docking model
    - [BsiteP](https://github.com/iitp-ppi/BsiteP): Protein-ligand binding site prediction
- - [PPI-Integration-Toolkit](https://github.com/PPI-Integration-Toolkit): integrated version of all toolkit
+ - [PPI-Integration-Toolkit](https://github.com/PPI-Integration-Toolkit): integrated version of all toolkits
 #### Template colab notebooks for integrated usage
  - [Predicting protein-protein interactions]()
- - [Predicting potein-ligand interactions]()
- - [Predicting the effect of protein mutations]()
+ - [Predicting protein-ligand interactions](https://drive.google.com/file/d/1Ws7ZLjkuJcz2cRMS83kwAT104ebYSl1H/view?usp=drive_link)
+ - [Predicting the effect of protein mutations](https://drive.google.com/file/d/1VmKygyn7JYp09ypj-2UqzyKy9_QESU77/view?usp=drive_link)
