@@ -29,7 +29,7 @@
    - [BAPred](https://github.com/iitp-ppi/BAPred): evaluation model for protein-ligand binding affinity
    - [galaxydock_dl](https://github.com/iitp-ppi/galaxydock_dl): protein-ligand docking model
    - [BsiteP](https://github.com/iitp-ppi/BsiteP): Protein-ligand binding site prediction
- - [PPI-Integration-Toolkit](https://github.com/PPI-Integration-Toolkit): integrated version of all toolkits
+ - [PPI-Integration-Toolkit](https://github.com/iitp-ppi/PPI-Integration-Toolkit): integrated version of all toolkits
 #### Template colab notebooks for integrated usage
  - Part 1 EGFR-antibody interaction analysis 
    - [Predicting protein-protein interactions](https://colab.research.google.com/drive/1wn6MHCFpBEoliHbFKLerlXRuDemUeBGw?usp=sharing)
