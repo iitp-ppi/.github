@@ -8,7 +8,10 @@
 
 [단백질 결합구조 및 다중서열정렬 정보 학습 DB](https://gofile.me/7oY9v/4euSTFcJY)
 
-[단백질-유기분자](https://gofile.me/7oY9v/qypdaVISE)/[단백질-단백질 변이의 기계학습을 위한 FEP DB](https://gofile.me/7oY9v/alFJx2yn0)
+[단백질-단백질 변이의 기계학습을 위한 FEP DB](https://gofile.me/7oY9v/alFJx2yn0)
+
+[단백질-유기분자 변이의 기계학습을 위한 FEP DB](https://gofile.me/7oY9v/qypdaVISE)
+
 
 ### Documentation
 
