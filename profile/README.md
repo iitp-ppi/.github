@@ -31,7 +31,7 @@
    - [BindingRMSD](https://github.com/iitp-ppi/BindingRMSD): evaluation model for protein-ligand model structure
    - [BAPred](https://github.com/iitp-ppi/BAPred): evaluation model for protein-ligand binding affinity
    - [galaxydock_dl](https://github.com/iitp-ppi/galaxydock_dl): protein-ligand docking model
-   - [BsiteP](https://github.com/iitp-ppi/BsiteP): Protein-ligand binding site prediction
+   - [SwinSite](https://github.com/iitp-ppi/SwinSite): Protein-ligand binding site prediction
  - [PPI-Integration-Toolkit](https://github.com/iitp-ppi/PPI-Integration-Toolkit): integrated version of all toolkits
 #### Template colab notebooks for integrated usage
  - Part 1 EGFR-antibody interaction analysis 
