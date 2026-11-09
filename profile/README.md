@@ -4,13 +4,13 @@
  - 특정 단백질에 대한 바이오 및 신약 연구에 활용 가능한 예시 제공
 ### Database
 
-[유기분자 결합구조 예측을 위한 DB](https://gofile.me/7oY9v/V8GLDxAyz)
+[유기분자 결합구조 예측을 위한 DB](https://166.104.110.160/ppi/)
 
-[단백질 결합구조 및 다중서열정렬 정보 학습 DB](https://gofile.me/7oY9v/IfG8YX4ej)
+[단백질 결합구조 및 다중서열정렬 정보 학습 DB](https://166.104.110.160/ppi/)
 
-[단백질-단백질 변이의 기계학습을 위한 FEP DB](https://gofile.me/7oY9v/alFJx2yn0)
+[단백질-단백질 변이의 기계학습을 위한 FEP DB](https://166.104.110.160/ppi/)
 
-[단백질-유기분자 변이의 기계학습을 위한 FEP DB](https://gofile.me/7oY9v/qypdaVISE)
+[단백질-유기분자 변이의 기계학습을 위한 FEP DB](https://166.104.110.160/ppi/)
 
 
 ### Documentation
